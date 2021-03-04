@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myrobofriends/static/css/main.7a982598.chunk.css",
+    "main.js": "/myrobofriends/static/js/main.4bd55e01.chunk.js",
+    "main.js.map": "/myrobofriends/static/js/main.4bd55e01.chunk.js.map",
+    "runtime-main.js": "/myrobofriends/static/js/runtime-main.6f771f04.js",
+    "runtime-main.js.map": "/myrobofriends/static/js/runtime-main.6f771f04.js.map",
+    "static/css/2.31461e4f.chunk.css": "/myrobofriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.c8abc7da.chunk.js": "/myrobofriends/static/js/2.c8abc7da.chunk.js",
+    "static/js/2.c8abc7da.chunk.js.map": "/myrobofriends/static/js/2.c8abc7da.chunk.js.map",
+    "static/js/3.46ff290a.chunk.js": "/myrobofriends/static/js/3.46ff290a.chunk.js",
+    "static/js/3.46ff290a.chunk.js.map": "/myrobofriends/static/js/3.46ff290a.chunk.js.map",
+    "index.html": "/myrobofriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/myrobofriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.7a982598.chunk.css.map": "/myrobofriends/static/css/main.7a982598.chunk.css.map",
+    "static/js/2.c8abc7da.chunk.js.LICENSE.txt": "/myrobofriends/static/js/2.c8abc7da.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myrobofriends/static/media/1st-Enterprises-Chrome-Italic.ttf.c0d38d51.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f771f04.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.c8abc7da.chunk.js",
+    "static/css/main.7a982598.chunk.css",
+    "static/js/main.4bd55e01.chunk.js"
+  ]
+}
