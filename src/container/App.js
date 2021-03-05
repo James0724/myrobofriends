@@ -26,6 +26,7 @@ class App extends Component {
 			return (
 				<div className="tc">
 					<h1 className="f1">Robofriends</h1>
+					<h2>This is a sample list of my wonderful friends</h2>
 					<Searchbox handleChange={this.onSearchChange} />
 					<Scroll>
 						<Cardlist robots={filteredrobots} />
